@@ -1,0 +1,13 @@
+{
+      "chainId": 101,
+      "address": "CX3M81L8DSgfLTpdHkqWTz4jZpYPGYHb1d3T1Rz6azp6",
+      "symbol": "GTECH",
+      "name": "GoldTech",
+      "decimals": 7,
+      "logoURI": "",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://instagram.com/Techtronix_enc"
+      }
